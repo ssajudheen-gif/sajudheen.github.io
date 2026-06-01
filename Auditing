@@ -98,3 +98,64 @@ description: Bookmark this to keep an eye on my project updates!
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Services - AuditaPro</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a class="logo" href="index.html" aria-label="AuditaPro Home">AuditaPro</a>
+      <nav class="nav">
+        <a href="about.html">About</a>
+        <a href="industries.html">Industries</a>
+        <a href="contact.html" class="cta">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container content">
+    <h1>Our Services</h1>
+
+    <section class="service-grid">
+      <article class="service-card">
+        <h2>Financial Statement Audits</h2>
+        <p>Independent opinion on whether financial statements are presented fairly in all material respects.</p>
+      </article>
+
+      <article class="service-card">
+        <h2>Internal Audit & Risk Assessment</h2>
+        <p>Assess governance, risk management, and control environments with practical recommendations.</p>
+      </article>
+
+      <article class="service-card">
+        <h2>Regulatory & Compliance Audits</h2>
+        <p>Assess adherence to laws, regulations, and industry standards relevant to your sector.</p>
+      </article>
+
+      <article class="service-card">
+        <h2>Forensic & Investigative Audits</h2>
+        <p>Root-cause analysis and evidence-based reporting for disputes and fraud investigations.</p>
+      </article>
+
+      <article class="service-card">
+        <h2>IT & Cyber Audit</h2>
+        <p>Evaluate IT controls, cyber risk, and data integrity in your systems.</p>
+      </article>
+
+      <article class="service-card">
+        <h2>Advisory & Remediation</h2>
+        <p>Remediation planning, governance enhancements, and control design support.</p>
+      </article>
+    </section>
+  </main>
+
+  <footer class="site-footer container">
+    <p>© 2026 AuditaPro. All rights reserved.</p>
+  </footer>
+</body>
+</html>
