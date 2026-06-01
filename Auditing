@@ -1,3 +1,59 @@
 theme: jekyll-theme-minimal
 title: Octocat's homepage
 description: Bookmark this to keep an eye on my project updates!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AuditaPro - Auditing & Assurance Services</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a class="logo" href="index.html" aria-label="AuditaPro Home">AuditaPro</a>
+      <nav class="nav">
+        <a href="services.html">Services</a>
+        <a href="industries.html">Industries</a>
+        <a href="case-studies.html">Case Studies</a>
+        <a href="contact.html" class="cta">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h1>Independent, insightful auditing for smarter business decisions</h1>
+      <p>We provide risk-based audits, assurance reports, and advisory services to help you improve governance, controls, and compliance.</p>
+      <a href="contact.html" class="btn-primary">Request a Consultation</a>
+    </div>
+  </section>
+
+  <section class="features container">
+    <div class="feature">
+      <h3>Independent Assurance</h3>
+      <p>Unbiased evaluations aligned with international standards.</p>
+    </div>
+    <div class="feature">
+      <h3>Risk & Control Focus</h3>
+      <p>Identify gaps, design controls, and monitor remediation progress.</p>
+    </div>
+    <div class="feature">
+      <h3>Industry Specialists</h3>
+      <p>Sector knowledge that matters for accuracy and relevance.</p>
+    </div>
+  </section>
+
+  <section class="cta-section container">
+    <h2>Ready to optimize your audits?</h2>
+    <p>Contact us for a tailored audit plan and timeline.</p>
+    <a href="contact.html" class="btn-secondary">Get in Touch</a>
+  </section>
+
+  <footer class="site-footer container">
+    <p>© 2026 AuditaPro. All rights reserved.</p>
+  </footer>
+  <script src="scripts.js"></script>
+</body>
+</html>
